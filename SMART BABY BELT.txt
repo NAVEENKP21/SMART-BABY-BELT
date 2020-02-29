@@ -1,0 +1,30 @@
+                                         SMART BABY BELT USING IOT
+ 
+This project is to make sure to safeguard  our babies ,  women  And mentally retarded patients whenever   we miss them in a huge gathering crowd or they get abducted by kidnappers , 
+since the device is already connected to the phone using wifi we can trace our infants or women we can trace them using the GPS tracking sensor in the device . 
+this device is also used to monitor the body temparature for the babies as they cannot express their feelings if they suffer from fever , cold like us . 
+using this baby belt we can reduce the infant mortality rate , assaults on infants and women we can reduce the crime rate in the society . 
+water level sensor is also placed in this belt . 
+if the carcass of the person using this belt  is thrown in to the sea or a lake , 
+we can knew it easily using this water level sensor , 
+it reduces the time of investigation and finding the carcass and makes work easier to the cops . 
+
+                                                        BUILT WITH
+ 
+NODE Mcu esp 8266
+LM35 temparature sensor
+GPS module 
+water level sensor
+jumper wire
+                                                    PLATFORMS USED
+
+BLYNK 
+Aurdino IDE 
+                                                         AUTHORS
+
+Mohan kumar Gulipalli
+Radha Manohara Reddy Bora 
+Sushma Darapureddy
+Naveen Kolipaka
+Sai Sarath
+      
